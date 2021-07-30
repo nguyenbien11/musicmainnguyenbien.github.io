@@ -53,6 +53,12 @@ let All_song = [
         path: "music/song5.mp3",
         img: "img/img5.jpg",
         singer: "Tuấn Hưng"
+    },
+    {
+        name: "Hit Cover",
+        path: "music/song6.mp3",
+        img: "img/img6.jpg",
+        singer: "Tuấn Nguyễn"
     }
 ];
 
