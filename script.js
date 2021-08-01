@@ -59,6 +59,12 @@ let All_song = [
         path: "music/song6.mp3",
         img: "img/img6.jpg",
         singer: "Tuấn Nguyễn"
+    },
+    {
+        name: "Baroque",
+        path: "music/song7.mp3",
+        img: "img/img7.jpg",
+        singer: "Study"
     }
 ];
 
